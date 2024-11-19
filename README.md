@@ -1,6 +1,6 @@
 ## Hi there 👋
-- 🌱 I’m currently learning embedded software development!
-and
+- 🌱 I’m currently learning:
+-   📟 Embedded software development
 - 🧠 The Neuron Simulator
 
 <!--
